@@ -2,6 +2,7 @@
 
 using Advent2025;
 using Advent2025.Problem2;
+using Advent2025.Problem3;
 
 // Problem1.SolvePart1();
 
@@ -9,4 +10,8 @@ using Advent2025.Problem2;
 
 // Problem2.SolvePart1();
 
-Problem2.SolvePart2();   
+// Problem2.SolvePart2();
+
+// Problem3.SolvePart1();
+
+Problem3.SolvePart2();   
