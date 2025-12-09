@@ -25,4 +25,12 @@ using Advent2025.Problem4;
 
 // Problem6.SolvePart1();
 
-Problem6.SolvePart2();   
+// Problem6.SolvePart2();
+
+// Problem7.SolvePart1();
+
+// Problem7.SolvePart2();
+
+// Problem8.SolvePart1();
+
+Problem8.SolvePart2();
